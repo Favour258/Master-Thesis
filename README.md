@@ -10,7 +10,7 @@ This repository contains the full set of scripts and data used for my master's t
 The project is organized into folders based on specific research questions. Each folder contains:
 - **`scr/`**: All R scripts used for data processing, analysis, and visualization.
 - **`output/`**: The results and plots generated from the scripts.
-- 
+
 Additionally, there is a **`Data/`** folder that contains the original datasets used in the analysis.
 
 ## Research Questions
