@@ -4,7 +4,7 @@
 **The Source, Composition, and Pollution Levels of Heavy Metals in Rainfed Tropical Urban Agricultural Soils**
 
 ## Introduction
-This repository contains the full set of scripts and data used for my master's thesis, which focuses on analyzing and visualizing the impact of urbanization on soil health. The project involves a comprehensive data science workflow, including data cleaning, preprocessing, transformation, statistical analysis, and visualization.
+This repository contains the full set of scripts and data used for my master's thesis, which focuses on analyzing and visualizing the impact of urbanization on soil heavy metal levels. The project involves a comprehensive data science workflow, including data cleaning, preprocessing, transformation, statistical analysis, and visualization.
 
 ## Project Structure
 The project is organized into folders based on specific research questions. Each folder contains:
