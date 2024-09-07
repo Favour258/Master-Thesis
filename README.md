@@ -15,7 +15,7 @@ Additionally, there is a **`Data/`** folder that contains the original datasets 
 
 ## Research Questions
 1. **Comparison of Heavy Metal Measurement Methods**: How do heavy metal concentrations measured using the fast portable X-ray fluorescence (pXRF) method compare to the standard laboratory (ICP-OES) techniques?
-2. **Geochemical Background Estimation**: Which statistical method for calculating local geochemical background (LGB) values of heavy metals provides the best estimation? In this study, the calculated distribution function (CDF) was chosen, with a justification provided.
+2. **Geochemical Background Estimation**: What is the local geochemical background (LGB) concentration of arsenic (As), lead (Pb), zinc (Zn), chromium (Cr), copper (cu), and cadmium (Cd)? In this study, the calculated distribution function (CDF) method was chosen to estimate the LGB values.
 3. **Urbanization Impact**: How does an increase in urbanization intensity impact the accumulation of heavy metals in tropical urban agricultural soils?
 4. **Pollution Levels and Human Health Risk**: What are the pollution levels and associated human health risks in the study area?
 
